@@ -1,9 +1,6 @@
 
 # 🎧 RadioPi - Web Radio pour Raspberry Pi
 
-![Logo](https://img.shields.io/badge/python-3.9%2B-blue?style=flat-square)
-![Platform](https://img.shields.io/badge/platform-Raspberry%20Pi-green?style=flat-square)
-![License](https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square)
 
 ## 📌 Présentation
 
@@ -69,21 +66,4 @@ python3 radiopi.py
 - ✅ Changement de thème
 - ✅ Interface compacte ou étendue
 
-## 📸 Captures d’écran
 
-*Ajoutez ici quelques captures d’écran de l’interface utilisateur*
-
-## 🧑‍💻 Auteur
-
-**Ton Nom**  
-📧 [ton.email@example.com](mailto:ton.email@example.com)  
-🎓 Projet de Fin d’Année – Enactus / ENIT
-
-## 📄 Licence
-
-Ce projet est sous licence **MIT**. Voir le fichier [LICENSE](LICENSE) pour plus d’informations.
-
-## ⭐ Contribuer
-
-Les contributions sont les bienvenues !  
-Forkez ce projet, proposez des **issues**, ou ouvrez des **pull requests**.
